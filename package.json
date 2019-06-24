@@ -1,0 +1,25 @@
+{
+  "author": {
+    "name": "hokkoo"
+  },
+  "deprecated": false,
+  "description": "约定的返回码",
+  "devDependencies": {
+    "typescript": "^2.9.2"
+  },
+  "keywords": [
+    "ret_code",
+    "返回码"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "ret_code",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hokkoo/ret_code"
+  },
+  "scripts": {
+    "tsc": "tsc -p tsconfig.json"
+  },
+  "version": "1.0.1"
+}
