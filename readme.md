@@ -1,13 +1,13 @@
-# ret_code
+# ret_codes
 
 ## 项目使用及说明
 
 ### 安装
-`npm i ret_code`
+`npm i ret_codes`
 
 ### 使用
 ```
-import retcode from 'ret_code';
+import retcode from 'ret_codes';
 ctx.body = {
     ret : retcode.ok,
 };

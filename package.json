@@ -9,17 +9,17 @@
     "typescript": "^2.9.2"
   },
   "keywords": [
-    "ret_code",
+    "ret_codes",
     "返回码"
   ],
   "license": "MIT",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hokkoo/ret_code"
+    "url": "https://github.com/hokkoo/ret_codes"
   },
   "scripts": {
     "tsc": "tsc -p tsconfig.json"
   },
-  "version": "1.0.1"
+  "version": "1.0.2"
 }
